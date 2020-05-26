@@ -1,0 +1,19 @@
+.field {
+    background-color: lightgreen;
+}
+
+.control {
+
+}
+
+.label {
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.input {
+    font-weight: lighter;
+    font-variant: small-caps;
+    color: red;
+}
